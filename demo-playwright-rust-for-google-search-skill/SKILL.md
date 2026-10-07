@@ -31,7 +31,7 @@ Sources) — not by compiling it.
 
 1. Copy `src/demo.rs`'s three-test structure.
 2. Point `page.goto(...)` at a site you're allowed to test — for hands-on
-   practice, use <https://testingexamples.github.io> (see the sibling
+   practice, use <https://testingexamples.github.io/en-001/practice/> (see the sibling
    `demo-playwright-rust` repo).
 3. Update every selector and assertion, and update `spec/index.md` in the
    same change.
